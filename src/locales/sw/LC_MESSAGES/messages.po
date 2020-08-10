@@ -1,0 +1,534 @@
+# Swahili translations for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-08-10 00:39+0300\n"
+"PO-Revision-Date: 2020-08-10 01:00+0300\n"
+"Language: sw\n"
+"Language-Team: sw <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.4\n"
+
+#: services/messenger.py:40
+msgid "Friend"
+msgstr "Rafiki"
+
+#: services/messenger.py:75
+#, python-format
+msgid ""
+"🙏🏼 Hi %(first_name)s, so you’ve decided to make your first steps in Open "
+"Source. That’s great."
+msgstr ""
+"🙏🏼 Habari %(first_name)s, kwa hiyo umeamua kupiga hatua zako za kwanza katika "
+"Open Source. Safi sana."
+
+#: services/messenger.py:86 services/messenger.py:201 services/messenger.py:221
+msgid "✔️ Yes"
+msgstr "✔️ Ndiyo"
+
+#: services/messenger.py:87 services/messenger.py:203 services/messenger.py:222
+msgid "❌ Not yet"
+msgstr "❌ Bado"
+
+#: services/messenger.py:90
+#, python-format
+msgid "So, tell me %(first_name)s do you know what Open Source is? 👇🏼"
+msgstr "Kwa hiyo, niambie %(first_name)s, Je, unajua Open Source ni nini? 👇🏼"
+
+#: services/messenger.py:102
+msgid "Open Source 🔓"
+msgstr ""
+
+#: services/messenger.py:104
+msgid "Git"
+msgstr ""
+
+#: services/messenger.py:105 services/messenger.py:808
+msgid "GitHub"
+msgstr ""
+
+#: services/messenger.py:106
+msgid "Make a PR"
+msgstr ""
+
+#: services/messenger.py:108
+msgid "FB Open Source"
+msgstr ""
+
+#: services/messenger.py:110
+msgid "Fork me on GitHub"
+msgstr ""
+
+#: services/messenger.py:146
+msgid ""
+"Oh you need some help 🆘! This is the main menu, select what you need below 👇🏼"
+msgstr ""
+
+#: services/messenger.py:155
+#, python-format
+msgid ""
+"I didn't get you %(first_name)s!\n"
+"You said : %(msg)s\n"
+"\n"
+" This is the main menu, select what you need below 👇🏼"
+msgstr ""
+
+#: services/messenger.py:166
+#, python-format
+msgid ""
+"%(first_name)s\n"
+"This is the main menu, select what you need below 👇🏼"
+msgstr ""
+
+#: services/messenger.py:192
+msgid "This is the main menu, select what you need below 👇🏼"
+msgstr ""
+
+#: services/messenger.py:206
+#, python-format
+msgid "So, tell me %(first_name)s do you know what Open source is? 👇🏼"
+msgstr ""
+
+#: services/messenger.py:217
+msgid "Amazing!"
+msgstr ""
+
+#: services/messenger.py:225
+msgid ""
+"An important component in Open Source contribution is version control tools. "
+"Are you familiar with the concept of version control? 👇🏼"
+msgstr ""
+
+#: services/messenger.py:236
+msgid ""
+"According to the dictionary, Open-source 🔓 software, denotes software for "
+"which the original source code is made freely 🆓 available and may be "
+"redistributed and modified."
+msgstr ""
+
+#: services/messenger.py:246 services/messenger.py:297 services/messenger.py:323
+#: services/messenger.py:500
+msgid "👉🏽 Next"
+msgstr ""
+
+#: services/messenger.py:249
+msgid ""
+"👩🏽‍🏫 You know ...\n"
+"✔️ Wordpress,\n"
+"✔️ Notepad++,\n"
+"✔️ Ubuntu\n"
+"and thousands of common software started out as Open-source software? 👇🏼"
+msgstr ""
+
+#: services/messenger.py:261
+msgid ""
+"😎 Worry not!\n"
+"\n"
+"Version control allows you to manage changes to files over time ⏱️."
+msgstr ""
+
+#: services/messenger.py:271
+msgid ""
+"You can use version control to version code, binary files, and digital assets "
+"🗄️."
+msgstr ""
+
+#: services/messenger.py:280
+msgid ""
+"This includes version control software, version control systems, or version "
+"control tools 🧰."
+msgstr ""
+
+#: services/messenger.py:289
+msgid "Version control is a component of software configuration management 🖥️."
+msgstr ""
+
+#: services/messenger.py:300
+msgid ""
+"😎 Now that you understand what Version control is, let's explore another "
+"important topic."
+msgstr ""
+
+#: services/messenger.py:311
+msgid "What is Git❔"
+msgstr ""
+
+#: services/messenger.py:313
+msgid "What is GitHub❔"
+msgstr ""
+
+#: services/messenger.py:316
+msgid "What do you want to start with⁉️ 👇🏼"
+msgstr ""
+
+#: services/messenger.py:326
+msgid ""
+"GitHub is a code hosting platform for version control and collaboration. It "
+"lets you and others work together on projects from anywhere."
+msgstr ""
+
+#: services/messenger.py:339
+msgid "Official Website"
+msgstr ""
+
+#: services/messenger.py:344
+msgid "GitHub Tutorial"
+msgstr ""
+
+#: services/messenger.py:349
+msgid "👩‍💻 Make a PR"
+msgstr ""
+
+#: services/messenger.py:354
+msgid "Discover GitHub"
+msgstr ""
+
+#: services/messenger.py:356
+msgid "Discover GitHub official website, or follow a beginner tutorial"
+msgstr ""
+
+#: services/messenger.py:370 services/messenger.py:710
+msgid "Good question 👌🏽"
+msgstr ""
+
+#: services/messenger.py:374 services/messenger.py:714
+msgid ""
+"Git is a type of version control system (VCS) that makes it easier to track "
+"changes to files. "
+msgstr ""
+
+#: services/messenger.py:382 services/messenger.py:722
+msgid ""
+"For example, when you edit a file, Git can help you determine exactly what "
+"changed, who changed it, and why."
+msgstr ""
+
+#: services/messenger.py:391 services/messenger.py:731
+msgid "👶🏽 Install Git"
+msgstr ""
+
+#: services/messenger.py:394 services/messenger.py:733
+msgid "🤓 I've Git Installed"
+msgstr ""
+
+#: services/messenger.py:398 services/messenger.py:737
+msgid "Want to learn more about Git?"
+msgstr ""
+
+#: services/messenger.py:411
+msgid "Good decision 👌🏽"
+msgstr ""
+
+#: services/messenger.py:415
+msgid ""
+"We are going to split the process into 5 steps: \n"
+"🛵 Fork, Clone, Update, Push and Merge. "
+msgstr ""
+
+#: services/messenger.py:424
+msgid "🥢 1. Fork"
+msgstr ""
+
+#: services/messenger.py:427
+msgid "Ready for the first step?!"
+msgstr ""
+
+#: services/messenger.py:435
+msgid "Awesome 👌🏽"
+msgstr ""
+
+#: services/messenger.py:439
+msgid ""
+"Open this link in a new window: \n"
+" https://github.com/fbdevelopercircles/open-source-edu-bot"
+msgstr ""
+
+#: services/messenger.py:446
+msgid "Now, click `Fork` on the top right corner of your screen"
+msgstr ""
+
+#: services/messenger.py:456
+msgid "A copy of the original project will be created under your account."
+msgstr ""
+
+#: services/messenger.py:464
+msgid "🚃 2. Clone"
+msgstr ""
+
+#: services/messenger.py:467
+msgid "Ready for the next step?!"
+msgstr ""
+
+#: services/messenger.py:475
+msgid "Great 👌🏽"
+msgstr ""
+
+#: services/messenger.py:479
+msgid ""
+"Right now, you have a fork of the `open-source-edu-bot` repository, but you "
+"don't have the files in that repository on your computer."
+msgstr ""
+
+#: services/messenger.py:487
+msgid ""
+"Let's create a clone of your fork locally on your computer.\n"
+"On GitHub, in your newly forked project, Click on `Code` above the list of "
+"files"
+msgstr ""
+
+#: services/messenger.py:503
+msgid "When you feel Ready🔥, hit Next to continue."
+msgstr ""
+
+#: services/messenger.py:509
+msgid ""
+"To clone the repository using HTTPS, under \"Clone with HTTPS\", click copy "
+"icon.\n"
+"To clone the repository using an SSH key click \"Use SSH\", then click on "
+"copy icon."
+msgstr ""
+
+#: services/messenger.py:523
+msgid ""
+"Now open a terminal, change the current working directory to the location "
+"where you want the cloned directory."
+msgstr ""
+
+#: services/messenger.py:530
+msgid ""
+"Type `git clone`, and then paste the URL you copied earlier.\n"
+"Press Enter. Your local clone will be created."
+msgstr ""
+
+#: services/messenger.py:537
+msgid "🥯 3. Update"
+msgstr ""
+
+#: services/messenger.py:540
+msgid "Now, you have a local copy of the project, Let's update it!"
+msgstr ""
+
+#: services/messenger.py:551
+msgid "Amazing 👌🏽"
+msgstr ""
+
+#: services/messenger.py:555
+msgid ""
+"Open the project using your favorite IDE, and look for `contributors.yaml` "
+"file"
+msgstr ""
+
+#: services/messenger.py:562
+msgid "This Yaml file contains list of project contributors, just like you."
+msgstr ""
+
+#: services/messenger.py:573
+msgid ""
+"Following the same scheme, add your name, country and github username to the "
+"list."
+msgstr ""
+
+#: services/messenger.py:581
+msgid "🚲 4. Push"
+msgstr ""
+
+#: services/messenger.py:584
+msgid "Ready to commit & Push your changes?!"
+msgstr ""
+
+#: services/messenger.py:592
+msgid "Way to go 👌🏽"
+msgstr ""
+
+#: services/messenger.py:595
+msgid ""
+"Open Terminal. \n"
+" Change the current working directory to your local repository. \n"
+"Stage the file for commit to your local repository using: `git add .`"
+msgstr ""
+
+#: services/messenger.py:603
+msgid ""
+"Commit the file that you've staged in your local repository:\n"
+"`git commit -m \"Add YOUR_NAME to contributors list\"`\n"
+"Make sure to add your name :D"
+msgstr ""
+
+#: services/messenger.py:612
+msgid ""
+"Finally, Push the changes in your local repository to  GitHub: `git push "
+"origin master`"
+msgstr ""
+
+#: services/messenger.py:620
+msgid "🔐 5. Merge"
+msgstr ""
+
+#: services/messenger.py:623
+msgid "Ready to make your first PR?!"
+msgstr ""
+
+#: services/messenger.py:631
+msgid "Proud of you 👌🏽"
+msgstr ""
+
+#: services/messenger.py:634
+msgid ""
+"Now go back to the original repo: https://github.com/fbdevelopercircles/open-"
+"source-edu-bot \n"
+"Above the list of files, click `Pull request`."
+msgstr ""
+
+#: services/messenger.py:647
+msgid ""
+"Make sure that \"base branch\" & \"head fork\" drop-down menus both are "
+"pointing to `master`"
+msgstr ""
+
+#: services/messenger.py:659
+msgid ""
+"Type a title and description for your pull request. Then click `click Create "
+"Pull Request`"
+msgstr ""
+
+#: services/messenger.py:665
+msgid "✅ Done"
+msgstr ""
+
+#: services/messenger.py:668
+msgid "Have you created your first PR?"
+msgstr ""
+
+#: services/messenger.py:678
+#, python-format
+msgid "🙌🎉 Bravo %(first_name)s 🙌🎉"
+msgstr ""
+
+#: services/messenger.py:690
+msgid "Now the team will review your PR and merge it ASAP :D"
+msgstr ""
+
+#: services/messenger.py:699
+msgid "Below other interesting stuff that we can explore together:"
+msgstr ""
+
+#: services/messenger.py:745
+msgid "Time to get Git installed in your machine ⭕!"
+msgstr ""
+
+#: services/messenger.py:751
+msgid "Download Git"
+msgstr ""
+
+#: services/messenger.py:755
+msgid "Head over here, and download Git Client based on your OS."
+msgstr ""
+
+#: services/messenger.py:765
+msgid "Configure Git ⚒️"
+msgstr ""
+
+#: services/messenger.py:768
+msgid "🧑‍🚀 Once done, let's configure Git"
+msgstr ""
+
+#: services/messenger.py:776
+msgid "Great Progress so far 👨🏽‍🎓!"
+msgstr ""
+
+#: services/messenger.py:780
+msgid ""
+"Now let's configure your Git username and email using the following commands"
+msgstr ""
+
+#: services/messenger.py:787
+msgid "`$ git config --global user.name \"Steve Josh\"`"
+msgstr ""
+
+#: services/messenger.py:791
+msgid "`$ git config --global user.email \"josh@example.com\"`"
+msgstr ""
+
+#: services/messenger.py:795
+msgid "Don't forget to replace Steve's  name and email with your own."
+msgstr ""
+
+#: services/messenger.py:801
+msgid "These details will be associated with any commits that you create"
+msgstr ""
+
+#: services/messenger.py:811
+msgid "Now let's check, what is Github?👇🏼"
+msgstr ""
+
+#: services/messenger.py:818
+msgid "Facebook 🧡 Open Source!"
+msgstr ""
+
+#: services/messenger.py:822
+msgid ""
+"Facebook manages many Open Source projects in the following areas:\n"
+"✔️ Android\n"
+"✔️ Artificial Intelligence\n"
+"✔️ Data Infrastructure\n"
+"✔️ Developer Operations\n"
+"✔️ Development Tools\n"
+"✔️ Frontend\n"
+"✔️ iOS\n"
+"✔️ Languages\n"
+"✔️ Linux\n"
+"✔️ Security\n"
+"✔️ Virtual Reality\n"
+"..."
+msgstr ""
+
+#: services/messenger.py:843
+msgid "Explore them"
+msgstr ""
+
+#: services/messenger.py:847
+msgid "Explore Facebook Open Source projects"
+msgstr ""
+
+#: services/messenger.py:856
+msgid ""
+"🤓 You know what? This chatbot code is Open Source 🔓, it's developed by "
+"Facebook Developers Circles members around the world."
+msgstr ""
+
+#: services/messenger.py:864
+#, python-format
+msgid ""
+"%(first_name)s we welcome contributors, or simply feel free to fork the code "
+"on GitHub, and create your own chatbot."
+msgstr ""
+
+#: services/messenger.py:874
+msgid "The Source Code"
+msgstr ""
+
+#: services/messenger.py:879
+msgid "Join a circle"
+msgstr ""
+
+#: services/messenger.py:884 services/messenger.py:897
+msgid "🚶🏽‍♀️ Main Menu 🗄️"
+msgstr ""
+
+#: services/messenger.py:887
+msgid "Select an option 👇🏼"
+msgstr ""
+
+#: services/messenger.py:899
+msgid "Coming soon!"
+msgstr ""

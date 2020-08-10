@@ -51,6 +51,12 @@ GREETING = {
             "text": u'🙋🏽 Muraho {{user_first_name}}! Kanda hepho kuri Buto '
             'yo gutangira kugirango ugere ku bikoresho byegeranyijwe na '
             'Facebook DevC bijyanye na Open Source 🔓.'
+        },
+        {
+            "locale": "sw_KE",
+            "text": u'🙋🏽 Habari {{user_first_name}}! Bonyeza kitufe cha kuanza'
+            ' hapa chini kupata fursa ya kufikia rasilimali za Facebook DevC'
+            ' zenye uhusiano na Open Source 🔓 zilizopangiliwa kwa ufasaha.'
         }
     ]
 }
@@ -153,6 +159,27 @@ PERSISTENT_MENU = {
                 {
                     "type": "postback",
                     "title": "🗄️ Ibikubiyemo",
+                    "payload": "MAIN_MENU"
+                },
+                {
+                    "type": "postback",
+                    "title": "🔓 FB Open Source",
+                    "payload": "FB_OS"
+                }
+            ]
+        },
+        {
+            "locale": "sw_KE",
+            "composer_input_disabled": False,
+            "call_to_actions": [
+                {
+                    "type": "postback",
+                    "title": "🏁 Anza tena",
+                    "payload": "START"
+                },
+                {
+                    "type": "postback",
+                    "title": "🗄️ Menyu Kuu",
                     "payload": "MAIN_MENU"
                 },
                 {
